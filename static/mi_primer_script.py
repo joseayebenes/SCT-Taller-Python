@@ -1,6 +1,6 @@
 import math
      
-print("Hola gente del curso de AeroPython")
+print("Hola gente del taller de Python")
 print("¿Cuántos sois hoy en clase?")
 
 number = input()
